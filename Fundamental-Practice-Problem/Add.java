@@ -7,6 +7,6 @@ public class Add {
         int b=scn.nextInt();
         int sum=a+b;
         System.out.println(sum);
-    }
+    } 
 
-}
+}  
